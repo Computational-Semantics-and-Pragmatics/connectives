@@ -1,6 +1,6 @@
 # Logic of connectives 
 
-This assignment aims to introduce you to the logic of truth-conditional
+This assignment aims to introduce you to the logic of truth-functional
 connectives. 
 
 ## Reading

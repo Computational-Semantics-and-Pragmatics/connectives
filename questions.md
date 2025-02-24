@@ -23,8 +23,8 @@ Questions on the logic of connectives
     1. If she doesn't study, she enjoys life.
     1. If she doesn't get good grades, she doesn't enjoy life.
 
-    Symbolize these statements in propositional logic and construct a truth-tree to
-    answer the following questions:
+    Symbolize these statements in propositional logic and construct a truth-tree (or any other method of your choice) to
+    answer the following questions. You do not need to include your tree (or table) in the solution:
 
     - Does she enjoy life?
     - Does she get good grades?
@@ -43,7 +43,7 @@ Questions on the logic of connectives
     1. The detector is functioning properly.
 
     Someone asserts that samples are contaminated. Do we need to believe? Motivate
-    your answer by constructing a truth-tree.
+    your answer by constructing a truth-tree (or table). You do not need to include your tree (or table) in the solution.
 
     ```
     Answer:
